@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"sun rises in the east."
 Use the left arrow to go back!
